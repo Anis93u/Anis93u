@@ -1,51 +1,24 @@
-# ITAI1378 Computer Vision Portfolio
+# Computer Vision Portfolio
 
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Taki! <br/><a href="https://github.com/Anis93u">AI Student</a>, <a href="https://www.linkedin.com/in/Anisu93u/">Lab Assistant</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="right" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/taki-boubekri-b35953310/
+[instagram]: https://www.instagram.com/anis._.bbk/
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...H
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -65,71 +38,61 @@ Welcome to my portfolio for the Computer Vision course (ITAI1378). This reposito
 ITAI1378_Computer_Vision_Portfolio/
 ├── Module_01/
 │   ├── Lab_01/
-│   │   └── lab01_code.py
 │   ├── Assignment_01/
-│   │   └── [A 01 CV Autonomous Vehicles.docx](files/ITAI 1378/A 01 CV Autonomous Vehicles.docx)
 │   └── Reflection.md
 ├── Module_02/
 │   ├── Lab_02/
-│   │   └── lab02_code.py
 │   ├── Assignment_02/
-│   │   └── assignment02_code.py
 │   └── Reflection.md
 ├── Module_03/
 │   ├── Lab_03/
-│   │   └── [L03a_Taki Eddine Anis Boubekri_ITAI1378.docx](files/ITAI 1378/L03a_Taki Eddine Anis Boubekri_ITAI1378.docx)
 │   ├── Assignment_03/
-│   │   └── assignment03_code.py
 │   └── Reflection.md
 ├── Module_04/
 │   ├── Lab_04/
-│   │   └── lab04_code.py
 │   ├── Assignment_04/
-│   │   └── assignment04_code.py
 │   └── Reflection.md
 ├── Module_05/
 │   ├── Lab_05/
-│   │   └── [L05 Taki Eddine Anis Boubekri ITAI 1378.docx](files/ITAI 1378/L05 Taki Eddine Anis Boubekri ITAI 1378.docx)
 │   ├── Assignment_05/
-│   │   └── assignment05_code.py
 │   └── Reflection.md
 ├── Module_06/
 │   ├── Lab_06/
-│   │   └── [L06 Taki Eddine Anis Bouberki ITAI 1378.pdf.docx](files/ITAI 1378/L06 Taki Eddine Anis Bouberki ITAI 1378.pdf.docx)
 │   ├── Assignment_06/
-│   │   └── [A06 Pixel Pioneers Taki Eddine Anis Boubekri ITAI 1378.docx](files/ITAI 1378/A06 Pixel Pioneers Taki Eddine Anis Boubekri ITAI 1378.docx)
 │   └── Reflection.md
 ├── Module_07/
 │   ├── Lab_07/
-│   │   └── [L07 Taki Eddine Anis Boubekri ITAI 1378.docx](files/ITAI 1378/L07 Taki Eddine Anis Boubekri ITAI 1378.docx)
 │   ├── Assignment_07/
-│   │   └── [A07 Taki Eddine Anis Boubekri Pixel Pioneers ITAI1378.docx](files/ITAI 1378/A07 Taki Eddine Anis Boubekri Pixel Pioneers ITAI1378.docx)
 │   └── Reflection.md
 ├── Module_08/
 │   ├── Lab_08/
-│   │   └── lab08_code.py
 │   ├── Assignment_08/
-│   │   └── assignment08_code.py
 │   └── Reflection.md
 ├── Module_09/
 │   ├── Lab_09/
-│   │   └── [L09 Taki Eddine Anis Boubekri ITAI 1378.docx](files/ITAI 1378/L09 Taki Eddine Anis Boubekri ITAI 1378.docx)
 │   ├── Assignment_09/
-│   │   └── assignment09_code.py
+│   └── Reflection.md
+├── Module_10/
+│   ├── Lab_10/
+│   ├── Assignment_10/
+│   └── Reflection.md
+├── Module_11/
+│   ├── Lab_11/
+│   ├── Assignment_11/
+│   └── Reflection.md
+├── Module_12/
+│   ├── Lab_12/
+│   ├── Assignment_12/
 │   └── Reflection.md
 ├── Final_Project/
-│   ├── [Pf Taki Eddine Anis Boubekri ITAI1378.docx](files/ITAI 1378/Pf Taki Eddine Anis Boubekri ITAI1378.docx)
-│   ├── project_code.py
-│   ├── project_report.pdf
-│   └── project_presentation.pptx
+│   └── Project_Documentation.md
+│   └── Project_Code/
+│   └── Project_Results/
 ├── Resources/
 │   ├── Articles/
-│   │   └── article_summary.md
 │   ├── Videos/
-│   │   └── helpful_videos_links.txt
 │   └── Images/
-│       └── example_images/
-├── README.md
+└── README.md
 ```
 
 ### Key Sections
@@ -151,37 +114,46 @@ ITAI1378_Computer_Vision_Portfolio/
 - **Overview**: An introduction to the field of computer vision, exploring how machines interpret and process visual data. Topics include image representation and preprocessing techniques.
 - **Key Concepts**: Basics of pixel manipulation, image formats, and noise reduction.
 - **Skills Gained**: Understanding foundational concepts and tools for image analysis.
-
+- - [A01 CV Autonomous Vehicles](https://houcomcol-my.sharepoint.com/:w:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/A%2001%20CV%20Autonomous%20Vehicles.docx?d=w33bff0fefff643788da68871c1f3b06d&csf=1&web=1&e=5XDV6x)
+- - [A01_Pixel pioneers_Taki Eddine Anis Boubekri_ITAI1378](https://houcomcol-my.sharepoint.com/:p:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/A01_Pixel%20pioneers_Taki%20Eddine%20Anis%20Boubekri_ITAI1378..pptx?d=w331ec6b89e854f18a8040ce3731b0de2&csf=1&web=1&e=b9yZpa)
+    
 ### Module 02: Cameras and Equipment for Computer Vision
 - **Overview**: Understanding how cameras capture images and videos, including factors like resolution, frame rates, and camera calibration.
 - **Key Concepts**: Intrinsic and extrinsic camera parameters, lenses, and distortion correction.
 - **Skills Gained**: Setting up cameras for accurate data capture and calibration.
-
+    
 ### Module 03: Tools of the Trade
 - **Overview**: Introduction to software and libraries used in computer vision, such as OpenCV, TensorFlow, and PyTorch.
 - **Key Concepts**: Tools for feature extraction, edge detection, and image transformation.
 - **Skills Gained**: Using modern libraries for efficient computer vision workflows.
-
+- - [L03a_Taki Eddine Anis Boubekri_ITAI1378](https://houcomcol-my.sharepoint.com/:w:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/L03a_Taki%20Eddine%20Anis%20Boubekri_ITAI1378.docx?d=wea5d5fde6e924fd6a2daf21c0bfd453c&csf=1&web=1&e=ctyohW)
+    
 ### Module 04: Fundamentals of Image Processing
 - **Overview**: Techniques for manipulating and enhancing images for better analysis.
 - **Key Concepts**: Filters, histograms, and transformations.
 - **Skills Gained**: Applying image processing techniques to real-world data.
-
+- - [A04 Image Processing Adventure Quest](https://cdn.inst-fs-iad-prod.inscloudgate.net/acf79f80-e0b1-464f-832b-3037c9ec4bf9/A04_Williane_Yarro_Group_2_ITAI1378%20(1)-1.pages?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii9hY2Y3OWY4MC1lMGIxLTQ2NGYtODMyYi0zMDM3YzllYzRiZjkvQTA0X1dpbGxpYW5lX1lhcnJvX0dyb3VwXzJfSVRBSTEzNzglMjAoMSktMS5wYWdlcyIsInRlbmFudCI6ImNhbnZhcyIsInVzZXJfaWQiOiI1NzI4MDAwMDAwMDQ5ODI5MyIsImlhdCI6MTczMzk3NDQwOSwiZXhwIjoxNzM0MDYwODA5fQ.2XpIbcSnq93ng7eTSNbnKCGeiXmrRoqTZvOP5ohQNZZsPFaRndZV8dJcFq5aMqVvoe_HncCuaKF46wcciv_PvA&download=1&content_type=application%2Fx-iwork-pages-sffpages)(https://cdn.inst-fs-iad-prod.inscloudgate.net/da991e4a-7d7a-490c-a375-a32e82c9c219/Relationship-between-the-RGB-color-and-the-HSV-color-systems.png?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii9kYTk5MWU0YS03ZDdhLTQ5MGMtYTM3NS1hMzJlODJjOWMyMTkvUmVsYXRpb25zaGlwLWJldHdlZW4tdGhlLVJHQi1jb2xvci1hbmQtdGhlLUhTVi1jb2xvci1zeXN0ZW1zLnBuZyIsInRlbmFudCI6ImNhbnZhcyIsInVzZXJfaWQiOiI1NzI4MDAwMDAwMDQ5ODI5MyIsImlhdCI6MTczMzk3NjY1NCwiZXhwIjoxNzM0MDYzMDU0fQ.NYcZsX4KSB9L3_w6bYm26nGdCMtAfoXxcvmPy1feGIN8MsMYZOEBvjXfwaEXiyj8jZeZJuN1L4AEu55tFhomJg&download=1&content_type=image%2Fpng)
+    
 ### Module 05: Machine Learning in Computer Vision
 - **Overview**: Applying machine learning algorithms to analyze and classify images.
 - **Key Concepts**: Supervised and unsupervised learning, feature extraction, and model evaluation.
 - **Skills Gained**: Designing models to recognize patterns in visual data.
-
+- - [L05 Taki Eddine Anis Boubekri ITAI 1378](https://houcomcol-my.sharepoint.com/:w:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/L05%20Taki%20Eddine%20Anis%20Boubekri%20ITAI%201378.docx?d=we3e22ac8cca543aead812fe8fce9156f&csf=1&web=1&e=q3rkhb)
+    
 ### Module 06: Neural Networks Fundamentals
 - **Overview**: Fundamentals of neural networks, including architecture and activation functions.
 - **Key Concepts**: Feedforward and backpropagation, loss functions, and optimization.
 - **Skills Gained**: Building and training simple neural networks for classification tasks.
-
+- - [A06 Pixel Pioneers Taki Eddine Anis Boubekri ITAI 1378](https://houcomcol-my.sharepoint.com/:w:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/A06%20Pixel%20Pioneers%20Taki%20Eddine%20Anis%20Boubekri%20ITAI%201378.docx?d=w3551cbad3660416e87917e3383480411&csf=1&web=1&e=dShuoQ)
+- - [L06 Taki Eddine Anis Bouberki ITAI 1378.pdf](https://houcomcol-my.sharepoint.com/:w:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/L06%20Taki%20Eddine%20Anis%20Bouberki%20ITAI%201378.pdf.docx?d=w635d7d8f1dd7466bb09bd057d1923654&csf=1&web=1&e=7ChZ7P)
+    
 ### Module 07: Introduction to Convolutional Neural Networks (CNNs)
 - **Overview**: Introduction to CNNs and their application in image recognition.
 - **Key Concepts**: Convolution, pooling, and feature maps.
 - **Skills Gained**: Designing CNNs for tasks like object detection and classification.
-
+- - [A07 Taki Eddine Anis Boubekri Pixel Pioneers ITAI1378](https://houcomcol-my.sharepoint.com/:w:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/A07%20Taki%20Eddine%20Anis%20Boubekri%20Pixel%20Pioneers%20ITAI1378.docx?d=wdddbd52ed2dd4129bf17f94a890016a1&csf=1&web=1&e=X0NuwS)
+- - [L07 Taki Eddine Anis Boubekri ITAI 1378](https://houcomcol-my.sharepoint.com/:w:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/L07%20Taki%20Eddine%20Anis%20Boubekri%20ITAI%201378.docx?d=w232f25a97df9472abc806e9a9f611f04&csf=1&web=1&e=uatmAE)
+ 
 ### Module 08: Advanced CNN Architectures Beyond Image Classification
 - **Overview**: Exploring advanced architectures like ResNet and Inception for complex tasks.
 - **Key Concepts**: Skip connections, attention mechanisms, and transfer learning.
@@ -191,12 +163,13 @@ ITAI1378_Computer_Vision_Portfolio/
 - **Overview**: Techniques for identifying and localizing objects in images.
 - **Key Concepts**: Algorithms like YOLO, SSD, and Faster R-CNN.
 - **Skills Gained**: Developing models for object detection and segmentation.
-
+- - [L09 Taki Eddine Anis Boubekri ITAI 1378](https://houcomcol-my.sharepoint.com/:w:/r/personal/w215972000_student_hccs_edu/Documents/ITAI%201378/L09%20Taki%20Eddine%20Anis%20Boubekri%20ITAI%201378.docx?d=w261927aa37194d65abbbc1f49e1dff78&csf=1&web=1&e=z1S2qt)
+    
 ### Module 10: Video Analysis and Generation
 - **Overview**: Techniques for analyzing and generating video content.
 - **Key Concepts**: Motion tracking, video summarization, and GANs for video generation.
 - **Skills Gained**: Analyzing video sequences and generating synthetic video data.
-
+    
 ### Module 11: Introduction to Generative Models and Diffusion Models
 - **Overview**: Understanding generative models for creating realistic images and videos.
 - **Key Concepts**: Variational autoencoders, GANs, and diffusion models.
@@ -228,8 +201,7 @@ I plan to use these skills in future projects and internships, focusing on AI-dr
 
 ## Connect with Me
 
-- [GitHub](https://github.com/joshmadakor1)
-- [LinkedIn](https://www.linkedin.com/in/joshmadakor/)
-- [YouTube](https://www.youtube.com/c/joshmadakor)
+- [GitHub](https://github.com/Anis93u)
+- [LinkedIn](https://www.linkedin.com/in/taki-boubekri-b35953310/)
 
 Thank you for exploring my portfolio!
